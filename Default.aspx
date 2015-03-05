@@ -46,8 +46,8 @@
                 <a href="#" class="navbar-btn sidebar-toggle" data-toggle="offcanvas" role="button">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
+                    <span class="icon-bar">vzxvzx</span>
+                    <span class="icon-bar">cxcx</span>
                 </a>
                 <div class="navbar-right">
                     <ul class="nav navbar-nav">
